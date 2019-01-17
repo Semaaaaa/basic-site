@@ -1,0 +1,33 @@
+body {
+
+background-color: #B0E0E6;
+
+}
+
+hr{
+
+ border-style: none;
+ border-top-style: dotted;
+ border-color: grey;
+ border-width: 5px;
+ width: 10%;
+
+}
+
+h1{
+
+  text-align: center;
+  text-shadow: 3px 2px white;
+  font-size: 45px;
+  font-family: fantasy;
+}
+
+h3{
+
+color: #005266;
+
+}
+
+.ud:hover {
+  color: #FF00FF;
+}
